@@ -10,5 +10,5 @@ I'm currently learning cyber security at home through hands on labs and study
 
 ###TryHackMe
 currently going though beginner cybersecurity labs
-##
+## projects
 projects will be added as my skills develop 
